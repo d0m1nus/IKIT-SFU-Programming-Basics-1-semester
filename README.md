@@ -9,3 +9,5 @@
 # IDE, которые использовались при написании работ:
 + MICROSOFT VISUAL STUDIO COMMUNITY 2017
 - MICROSOFT VISUAL STUDIO COMMUNITY 2019
+# Связь со мной
+- [VK]:https://vk.com/0vsyannikov
