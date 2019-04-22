@@ -5,7 +5,7 @@
  - Все практические работы с отчётами (practical work)
  + Все задачи (tasks)
 # Преподаватель, принявщий работы и задачи:
-###### Пушкарёв К. В.
+ Пушкарёв К. В.
 # IDE, которые использовались при написании работ:
-*MICROSOFT VISUAL STUDIO COMMUNITY 2017
-*MICROSOFT VISUAL STUDIO COMMUNITY 2019
++ MICROSOFT VISUAL STUDIO COMMUNITY 2017
+- MICROSOFT VISUAL STUDIO COMMUNITY 2019
